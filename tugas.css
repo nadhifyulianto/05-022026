@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(150, 227, 255, 0.488);
+    height: auto;
+    margin: auto;
+}
+#title {
+    background-color: rgb(255, 255, 255);
+    background-image: -moz-radial-gradient();
+    height: 40px;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+
+    
+}
+.intro{
+    background-color: rgb(255, 255, 255);
+    background-image: -moz-radial-gradient();
+    height: 30px;
+    font-size: large;
+}
+li{
+    background-color: rgb(255, 248, 248);
+}
+
+.nggeh{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.Sepurane{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    font-size: medium;
+}
+.paklek{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+#future{
+    background-color: rgb(241, 241, 241);
+    font-size: medium;
+    color: black;
+}
+.zero{
+    font-size: xx-large;
+    color: darkred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
